@@ -21,13 +21,13 @@ To set up the project on your local machine, follow these steps:
    ```
 
 2.Set Up a Virtual Environment:
-     ```bash
+    ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
 3.Install Required Packages:
-     ```bash
+    ```bash
     pip install -r requirements.txt
     ```
 
@@ -63,20 +63,20 @@ To train model:
 
 1.Preprocess the Dataset and Extract Features
 Run the index.py script to preprocess the dataset and perform feature extraction.
-     ```bash
+    ```bash
     python index.py
     ```
 
 2.Train the Model
 After preprocessing, run the trainmodel.py script to train the model.
-     ```bash
+    ```bash
     python trainmodel.py
     ```
 
 Evaluation:
 
 To evaluate the performance of the trained model
-     ```bash
+    ```bash
     python evaluate.py
     ```
 
@@ -92,6 +92,7 @@ To perform real-time inference with the trained model:
    ```bash
    python server.py
    ```
+   
 2.Run the Client:
     ```bash
     python client.py
