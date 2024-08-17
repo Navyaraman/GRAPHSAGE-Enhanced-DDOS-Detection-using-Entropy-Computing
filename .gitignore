@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+
+# Data files
+*.csv
+
+# Model files
+*.pth
+
+# Images
+*.png
+
+# Virtual environment
+venv/
