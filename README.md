@@ -75,7 +75,7 @@ After preprocessing, run the trainmodel.py script to train the model.
 
 Evaluation:
 
-To evaluate the performance of the trained model
+1. To evaluate the performance of the trained model
     ```bash
     python evaluate.py
     ```
