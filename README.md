@@ -16,7 +16,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the Repository:
     ```bash
-   git clone https://github.com/Navyaraman/GRAPHSAGE-ENHANCED-DDOS-DETECTION-WITH-ENTROPY-COMPUTING
+   git clone https://github.com/Navyaraman/GRAPHSAGE-Enhanced-DDOS-Detection-using-Entropy-Computing
    cd repository
    ```
 
